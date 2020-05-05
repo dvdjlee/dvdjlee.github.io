@@ -1,0 +1,63 @@
+/*CSS DOCUMENT*/
+
+
+header {
+    text-align: center;
+    font-size: 0.9em;
+    margin: 0em 0em 2em 0em;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 1.3em;
+}
+
+div.intro {
+    padding: 0em 0em 0em 0em;
+    max-width: 70em;
+    margin: auto;
+    width: 90%
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+p {
+    margin: 0.5em auto 2em auto;
+    width: 90%;
+    vertical-align: middle;
+}
+
+div.container {
+    max-width: 60em;
+    margin: auto;
+}
+
+.ingredients {
+    margin: 1em 5em 1em 5em;
+    font-family: helvetica; sans-serif;
+    font-size: 0.9em;
+}
+
+
+.directions {
+    margin: 1em 5em 1em 5em;
+    font-family: helvetica; sans-serif;
+    font-size: 0.9em;   
+}
+
+h3 {
+    font-size: 1.1em;
+    color: #ff6a6e;
+}
+
+.directions {
+    margin-bottom: 4em;
+}
+h6 {
+    margin: auto 3em auto 3em;
+}
