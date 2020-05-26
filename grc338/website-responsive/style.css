@@ -1,0 +1,72 @@
+/* CSS DOCUMENT */
+
+img {
+    width: 100%;
+}
+body {
+    color: #ffffff;
+}
+nav {
+    float: right;
+    padding-top: 1em;
+    padding-right: 2em;
+}
+nav ul {
+    padding: 0;
+}
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 1.5em;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+nav ul li a {
+    text-decoration: none;
+    color: rgb(255, 82, 61);
+}
+h1 {
+    float: left;
+}
+h2 {
+    font-family: skolar-sans-latin, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #000000;
+}
+h3 {
+    font-family: skolar-sans-latin, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: uppercase;
+    color: rgb(255, 82, 61);
+}
+
+h4 {
+    font-family: skolar-sans-latin, sans-serif;
+    font-style: normal;
+    color: #555555;
+}
+.descriptive {
+    font-family: skolar-sans-latin, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1em;
+    color: #555555;
+}
+p {
+    font-family: skolar-sans-latin, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(188, 188, 190);
+}
+ul li {
+    list-style: none;
+    font-family: skolar-sans-latin, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(188, 188, 190);
+}
